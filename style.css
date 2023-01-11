@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+h2 {
+    color: #8b0005;
+    text-align: center;
+}
+a {
+    text-align: center;
+}
+p {
+    color: crimson;
+    text-align: center;
+}
+blockquote {
+    color: red;
+}
+
